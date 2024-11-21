@@ -9,3 +9,4 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+  Este proyecto utiliza [Git Documentation](https://git-scm.com/doc).
