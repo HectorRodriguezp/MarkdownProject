@@ -1,0 +1,62 @@
+commit 933283ca701ad2b18df8257f35a6943fb2122e4e
+Merge: 8631410 91ad35e
+Author: HectorRodriguezp <54409777b@iespoblenou.org>
+Date:   Thu Nov 21 14:22:57 2024 +0100
+
+    Merge pull request #2 from HectorRodriguezp/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 91ad35e2a4edbbeb2abe4f336d6408bcd4247d79
+Author: Hector <54409777b@iespoblenou.org>
+Date:   Thu Nov 21 12:40:34 2024 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
+commit 8631410e4dacb53fe590dddb1dd5d6b3d05d9d6b
+Author: Hector <54409777b@iespoblenou.org>
+Date:   Thu Nov 21 10:11:35 2024 +0100
+
+    Enhance README with formatting
+
+ README.md | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit dcb73cfb6de55a6d8f7b25e703629d8d0c210cea
+Author: Hector <54409777b@iespoblenou.org>
+Date:   Thu Nov 21 10:09:44 2024 +0100
+
+    Add feature list table to README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 647d451fe25597528b539a93d0f25b2bb073ee71
+Author: Hector <54409777b@iespoblenou.org>
+Date:   Thu Nov 21 10:02:29 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 7baaac3aee109eb9e98b4d42821365d049dd2d53
+Author: Hector <54409777b@iespoblenou.org>
+Date:   Thu Nov 21 09:58:27 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit e830ecf090df6e0447eb0a03885111675a8b4c30
+Author: Hector <54409777b@iespoblenou.org>
+Date:   Thu Nov 21 09:55:05 2024 +0100
+
+    Add README with project introduccion
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
